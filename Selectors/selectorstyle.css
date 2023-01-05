@@ -1,0 +1,32 @@
+/* Type Selector */
+      button {
+        background-color: black;
+        color: white;
+        width: 200px;
+        height: 100px;
+        font-family: "Helvetica", "Arial", sans-serif;
+      }
+      button:hover {
+        background-color: bisque;
+        color: black;
+        font-size: 25px;
+        border-radius: 10px;
+        border-width: 5px;
+        border-color: teal;
+        font-family: "Helvetica", "Arial", sans-serif;
+      }
+      /* Class selector */
+      .title {
+        font-family: "Helvetica", "Arial", sans-serif;
+        font-size: 54px;
+      }
+      .title:hover {
+        background-color: bisque;
+      }
+      /* Id selector */
+      #content {
+        font-size: 27px;
+      }
+      #content:hover {
+        background-color: bisque;
+      }
