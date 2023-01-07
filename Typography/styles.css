@@ -1,0 +1,14 @@
+body
+{
+    background-color: #444;
+}
+#typography
+{
+    text-align: center;
+    color: yellow;
+    width: 60%;
+    margin: auto;
+}
+.has-text-centered {
+    text-align: center;
+  }

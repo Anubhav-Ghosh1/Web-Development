@@ -1,0 +1,25 @@
+.box
+{
+    background-color: blue;
+    width: 450px;
+    height: 250px;
+
+    border-radius: 25px;
+    padding: 25px;
+    color: white;
+    background-image: url("ab.png");
+    background-size:contain;
+    background-size: 250px;
+    margin-bottom: 5px;
+    
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box:hover
+{
+    background-size: 200px;
+    background-image: url("IMG20221223193746.jpg");
+    background-size: 400px;
+}
